@@ -144,8 +144,8 @@ Where JavaScript returns undefined when accessing a property that does not exist
  print( student.get('birthdate') )
  > None
  # Provide a default value if key not in dictionary
- print( student.get('birthdate', '07-04-1776') )
- > 07-04-1776
+ print( student.get('birthdate', '07-04-1777') )
+ > 07-04-1777
 ```
 ### **in Operator**
 ___
