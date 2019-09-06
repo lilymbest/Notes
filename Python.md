@@ -4,45 +4,26 @@ ___
 **Python** - A scripting language that was started in December 1989 and released in 1991 by Dutch programmer Guido van Rossum.
 
 - Python is a high-level interpreted programming language designed for writing applications where programmers don't have to worry about memeory management. [Python Packet Index](https://pypi.org/)
-<<<<<<< HEAD
 
 ### **Python syntax**
-=======
-___
-## Python syntax 
->>>>>>> 20b392ed6fffc5f918d2883805fd227dfd995918
 ___
 Designed to be more readable by using more english key words then symbols. && = and in python. 
 
 - Uses indentation to define blocks of code.
-<<<<<<< HEAD
 - Comments are defined with # and multiline coments use tripple quotes(""") or a # on each line
 - Naming a class and a variabe may have different case types (snake_case, camelCase etc...).
 - Boolean values are always uppercase
 
 ### **Data Types**
 ___
-=======
-- Comments are defined with # and anything after it will not run. Multiline coments use tripple quotes(""") or a # on each line
-- Naming a class and a variabe may have different case types (snake case camel case etc...).
-- Boolean values are uppercase
-___
-## Data Types
----
->>>>>>> 20b392ed6fffc5f918d2883805fd227dfd995918
 - <class 'int'> = 25
 - <class 'str'> = 'string'
 - <class 'bool'> = True
 - <class 'float'> = 3.14159
 - <class 'complex'> = 3+4j
 - <class 'NoneType'> = None
-<<<<<<< HEAD
 
 ### **Math Operations**
-=======
-___
-## Math Operations
->>>>>>> 20b392ed6fffc5f918d2883805fd227dfd995918
 ___
 - (+)
 - (-)
@@ -54,12 +35,7 @@ ___
 `Note:` Increment Operators Do not exist in python (++), (--).
 
 
-<<<<<<< HEAD
 ### **Converting Between Data Types**
-=======
-___
-## Converting Between Data Types
->>>>>>> 20b392ed6fffc5f918d2883805fd227dfd995918
 ___
 - str(item)
 - int(item, base)
@@ -105,11 +81,7 @@ ___
 - (>=) - Greater than or equal to
 - (==) - Equal to
 - (!=) - Not equal to 
-<<<<<<< HEAD
 ___
-=======
-
->>>>>>> 20b392ed6fffc5f918d2883805fd227dfd995918
 # **Python Containers**
 
 Frequently in an application you need to maintain collections of data within a container data type.
