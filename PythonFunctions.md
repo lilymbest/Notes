@@ -114,6 +114,8 @@ ___
 ___
 Using the `*` specifier in a parameter list allows us to pass in a varying number of arguments.
 
+Type - Tuple
+
 Example:
 ```python
 def f(*args):
@@ -144,6 +146,10 @@ print(dev_skills('Alex', 'HTML', 'CSS', 'JavaScript', 'Python'))
 ```
 #### Python's ** Parameter Specifier (**kwargs)
 ___
+`kwargs` - keyword arguments
+
+Type = Dictionary
+
 To access a varying number of named arguments **kwargs is used at the end of the parameter list:
 ```python
 def dev_skills(dev_name, **kwargs):
